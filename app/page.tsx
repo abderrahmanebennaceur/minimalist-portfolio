@@ -37,12 +37,12 @@ const HomePage = () => {
 
         {/* Clients */}
         <div className="grid grid-cols-2 md:grid-cols-6 gap-8 items-center mb-20 opacity-50">
-          <div>NABDH ACADEMY</div>
-          <div>ASFA</div>
-          <div>MihnaHub</div>
-          <div>RUTA</div>
-          <div>SURADIQ</div>
-          <div>TAHAT DIGITAL</div>
+          <div className='text-center'>NABDH ACADEMY</div>
+          <div className='text-center'>ASFA</div>
+          <div className='text-center'>MihnaHub</div>
+          <div className='text-center'>RUTA</div>
+          <div className='text-center'>SURADIQ</div>
+          <div className='text-center'>TAHAT DIGITAL</div>
         </div>
 
         {/* Services Section */}
